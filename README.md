@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @div30
+- 👋 Hi, I’m @divyansh
 - 👀 I’m interested in making simplistic apps 
 - 🌱 I’m currently studying CSE
-- 📫 reach me at instagram- itzmediv
+- 📫 reach me at instagram- itzdiv
 
 <!---
 cyctuber/cyctuber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
